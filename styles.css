@@ -18,10 +18,12 @@ background-color: #1dc441;
     border: none;
     cursor: pointer;
     border-radius: 5px;
+    text-align: center;
 }
 html,
 body {
     height: 100%;
+    text-align: center;
 }
 
 .wrap {
